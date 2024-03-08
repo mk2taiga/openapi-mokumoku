@@ -10,3 +10,4 @@ gen
 # python
 .venv
 get-pip.py
+.env
